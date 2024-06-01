@@ -42,12 +42,13 @@ I'm a third-year student majoring in Computer Science, currently studying at Per
 
 ### 📊 GitHub Stats:
 
-<div>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=zeronyms&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronyms&theme=radical&langs_count=5)
-  
-</div>
+![](https://github-readme-stats.vercel.app/api?username=zeronyms&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronyms&theme=radical&langs_count=5)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zeronyms/count.svg" />
+</p>
 
 #
 
