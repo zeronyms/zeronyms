@@ -1,7 +1,7 @@
-## Hi I'm Kristian!
-
-
 # 💫 Hi I'm Kristian!
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 I'm a third-year student majoring in Computer Science, currently studying at Pertamina University, Indonesia. I really enjoy learning computer science and creating projects based on what I learn. So far, I've worked on a few simple projects, such as developing the frontend of the TicMov Mobile App (an online cinema ticket purchasing service with seat reservation capabilities) and the Tra-tour Mobile App (an application that assists communities in waste sorting and schedules waste collection in a more efficient and environmentally friendly way). The Tra-tour app won a national-level competition, PROXOCORIS 2024, organized by Universitas Klabat, in the category of Best Code Implementation.
 
 - 📫 How to reach me: Find me on socials below
@@ -22,6 +22,7 @@ I'm a third-year student majoring in Computer Science, currently studying at Per
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zeronyms&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
