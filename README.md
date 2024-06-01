@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/zeronyms/zeronyms/blob/main/Banner.png" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 
