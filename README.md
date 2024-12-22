@@ -17,7 +17,24 @@ I'm a third-year student majoring in Computer Science, currently studying at Per
 ### 🧰 Languages and Tools
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+
 <br />
+
+
+#
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=zeronyms&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronyms&theme=radical&langs_count=5)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zeronyms/count.svg" />
+</p>
+
+#
+
 <!--
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
@@ -39,19 +56,6 @@ I'm a third-year student majoring in Computer Science, currently studying at Per
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 -->
-#
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=zeronyms&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeronyms&theme=radical&langs_count=5)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zeronyms/count.svg" />
-</p>
-
-#
 
 
 <!--
