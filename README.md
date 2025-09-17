@@ -1,12 +1,11 @@
+<!-- 
 <img src="https://github.com/zeronyms/zeronyms/blob/main/Banner.png" alt="Hello world">
-
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 
 I'm a third-year student majoring in Computer Science, currently studying at Pertamina University, Indonesia. I really enjoy learning computer science and creating projects based on what I learn. So far, I've worked on a few simple projects, such as developing the frontend of the TicMov Mobile App (an online cinema ticket purchasing service with seat reservation capabilities) and the Tra-tour Mobile App (an application that assists communities in waste sorting and schedules waste collection in a more efficient and environmentally friendly way). The Tra-tour app won a national-level competition, PROXOCORIS 2024, organized by Universitas Klabat, in the category of Best Code Implementation.
 
 - 📫 How to reach me: kristiansuriyadharm@gmail.com
 - 🌱 I’m currently learning Machine Learning and IoT
-
 ---
 
 ### 🌐 Socials:
@@ -34,6 +33,7 @@ I'm a third-year student majoring in Computer Science, currently studying at Per
 </p>
 
 #
+-->
 
 <!--
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
